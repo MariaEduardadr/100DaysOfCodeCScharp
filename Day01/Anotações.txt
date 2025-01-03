@@ -1,0 +1,16 @@
+﻿// RECURSIVIDADE 
+
+Recursividade é uma função onde no seu bloco de comandos
+existe uma chamada, ou seja um comando que chama ela mesma a própria função.
+
+Um método que pode chamar a si próprio
+O qual chamamos de método recursivo
+
+Um meétodo recursivo apresenta dois componentes básicos:
+- Caso base ( critério de parada): determina quando o método deverá parar de chamar a si memso;
+
+- Fórmula geral ( permitir que um método chame a si mesmo);
+
+Em geral, formulações recursivas de algoritmos são frequentemente consideradas "mais enxutas" ou "mais elegantes" do que formulçãoes interativas;
+
+O conceito de recursividade é fundamental na computação, bem como na Matemática( fatorial, números naturais, Fibonacci, etc);
